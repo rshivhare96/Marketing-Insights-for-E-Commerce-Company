@@ -73,13 +73,6 @@ Segmented customers into 4 distinct groups:
 
 ---
 
-## 📁 Notebooks
-
-[Marketing_Insights_for_E-Commerce_Company.ipynb](./Marketing%20Insights%20for%20E-Commerce%20Company.ipynb):  
-Complete workflow including EDA, machine learning, and customer segmentation.
-
----
-
 ## 🛠 Requirements
 
 To install the necessary libraries, run:
